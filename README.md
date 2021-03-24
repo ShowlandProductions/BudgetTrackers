@@ -14,3 +14,20 @@ AS AN avid traveller
 I WANT to be able to track my withdrawals and deposits with or without a data/internet connection
 SO THAT my account balance is accurate when I am traveling
 
+## Table of Contents
+
+* [User Story](#user-story)
+* [Deployed Application](#deployed-application)
+* [Dependencies](#dependencies)
+
+## Deployed Application
+
+## Dependencies 
+* HTML
+* CSS
+* Bootstrap
+* Express
+* MongoDB
+* Mongoose
+* JavaScript
+* Node.js
